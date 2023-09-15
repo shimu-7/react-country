@@ -1,0 +1,10 @@
+.country{
+    border: 5px solid tomato;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.visited{
+    background-color: bisque;
+}
